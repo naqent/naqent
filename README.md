@@ -25,15 +25,15 @@
 
 ---
 
+# 📊 GitHub Stats
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <a href="https://github.com/naqent" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  </a>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px; box-shadow:0 0 15px rgba(88,101,242,0.3); display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
+    <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats"/>
+  </div>
   <br/>
-  <a href="https://github.com/naqent" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
-  </a>
+  <sub><i>💻 Stats powered by <b>GitHub Readme Stats</b> & <b>Streak Stats</b></i></sub>
 </div>
 
 ---
