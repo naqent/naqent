@@ -1,13 +1,26 @@
 # 💫 About Me
 <div align="center">
-  <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 30px; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.3); width:90%; max-width:500px;">
+  <div style="
+    background: radial-gradient(circle at top left, rgba(30,30,60,0.6), #0d1117);
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 35px 40px;
+    display: inline-block;
+    box-shadow: 0 0 25px rgba(88,101,242,0.3);
+    width: 90%;
+    max-width: 550px;
+  ">
 
-  <!-- Animated Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Node.js+%26+Python+Enthusiast;Always+Learning+and+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Node.js+%26+Python+Enthusiast;Building+smart+%26+scalable+bots;Always+learning+%26+creating+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <br/><br/>
-  <p>💼 Discord Bot Developer focused on building efficient, scalable, and creative solutions using <b>Node.js</b> & <b>Python</b>.</p>
-  <p>🚀 Passionate about clean code and continuous learning.</p>
+  <br/>
+  <p align="center">
+    💼 Experienced in building <b>intelligent and scalable Discord bots</b> that enhance online communities.<br/>
+    ⚙️ Skilled in <b>Node.js</b> and <b>Python</b> with a focus on performance and clean code.<br/>
+    🚀 Always improving through creativity and continuous learning.
+  </p>
+
   <a href="https://discord.com/users/Naqint" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
