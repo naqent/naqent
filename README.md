@@ -1,10 +1,10 @@
 # 💫 About Me
 <div align="center">
   <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 30px; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.3); width:90%; max-width:500px;">
-    <h3>Hey there, I'm <b>Naqent</b> 👋</h3>
-    <p>🚀 Building smart and dynamic <b>Discord bots</b> that make communities more engaging.</p>
-    <p>💡 Focused on clean, efficient, and creative code.</p>
-    <p>🌱 Learning more about <b>Node.js</b> & <b>Python</b>.</p>
+    <h3>👋 Hello, I'm <b>Naqent</b></h3>
+    <p>💼 I'm a dedicated <b>Discord Bot Developer</b> passionate about building intelligent, scalable, and creative solutions that enhance online communities.</p>
+    <p>⚙️ I specialize in <b>Node.js</b> and <b>Python</b>, focusing on performance optimization, clean architecture, and seamless automation.</p>
+    <p>🌱 Continuously learning and exploring modern technologies to refine my development workflow and deliver impactful results.</p>
     <a href="https://discord.com/users/Naqint" target="_blank">
       <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
