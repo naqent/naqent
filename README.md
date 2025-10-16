@@ -15,12 +15,20 @@
 
 # 💻 Tech Stack
 <div align="center">
-  <h3>⚙️ My Development Toolkit</h3>
-  <div style="background:linear-gradient(90deg, #1f1f1f, #0d1117); border-radius:12px; padding:20px 15px; width:fit-content; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.4);">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,js,ts,html,css,github,vercel,bash,vscode,cloudflare" />
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 35px; box-shadow:0 0 12px rgba(88,101,242,0.3); display:inline-block;">
+    <h3>🛠️ Technologies I Work With</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    </p>
+    <sub><i>🎯 Blending creativity with functionality.</i></sub>
   </div>
-  <br/>
-  <sub><i>Always exploring, learning, and creating ✨</i></sub>
 </div>
 
 ---
