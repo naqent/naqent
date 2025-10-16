@@ -1,5 +1,17 @@
+<!-- 💫 README by Naqent | Interactive Dark Theme with Fade & Glow -->
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.fade {
+  animation: fadeIn 1s ease-in-out forwards;
+}
+</style>
+
 # 💫 About Me
-<div align="center">
+<div align="center" class="fade">
   <div style="
     background: linear-gradient(135deg, rgba(35,38,59,0.9) 0%, rgba(13,17,23,1) 100%);
     border: 1px solid rgba(138,124,255,0.3);
@@ -45,7 +57,7 @@
 ---
 
 # 💻 Tech Stack
-<div align="center">
+<div align="center" class="fade" style="animation-delay:0.3s;">
   <div style="
     background:#0d1117;
     border:1px solid rgba(138,124,255,0.3);
@@ -76,7 +88,7 @@
 ---
 
 # 📊 GitHub Stats
-<div align="center">
+<div align="center" class="fade" style="animation-delay:0.6s;">
   <div style="
     background:#0d1117;
     border:1px solid rgba(138,124,255,0.3);
@@ -99,7 +111,7 @@
 
 ---
 
-<div align="center">
+<div align="center" class="fade" style="animation-delay:0.9s;">
   <h3>💬 Random Dev Quote</h3>
   <div style="
     background:#0d1117;
@@ -119,7 +131,7 @@
 
 ---
 
-<div align="center">
+<div align="center" class="fade" style="animation-delay:1.2s;">
   <h3>👁️ Visitor Counter</h3>
   <div style="
     background:#0d1117;
