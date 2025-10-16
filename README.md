@@ -54,8 +54,11 @@
 
   <br/><br/>
 
-  <h3 style="color:#8A7CFF;">🎧 Spotify Recently Played</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=3&unique=true" alt="Spotify Recently Played"/>
+  <h3 style="color:#8A7CFF;">🎧 Spotify Top Tracks</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/top-tracks?uid=31shkbtgac5xh3wzijj5bbylp63i&theme=novatorem&background_color=0d1117&hide_border=false" alt="Spotify Top Tracks"/>
+
+  <br/>
+  <sub><i>🎵 Automatically updated with your favorite songs.</i></sub>
 
   </div>
 </div>
