@@ -15,24 +15,12 @@
 
 # 💻 Tech Stack
 <div align="center">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/>
-  </a>
+  <h3>⚙️ My Development Toolkit</h3>
+  <div style="background:linear-gradient(90deg, #1f1f1f, #0d1117); border-radius:12px; padding:20px 15px; width:fit-content; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.4);">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,js,ts,html,css,github,vercel,bash,vscode,cloudflare" />
+  </div>
+  <br/>
+  <sub><i>Always exploring, learning, and creating ✨</i></sub>
 </div>
 
 ---
