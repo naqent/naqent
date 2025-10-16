@@ -62,12 +62,18 @@ A comprehensive overview of my coding journey and activity.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false&v=10)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=naqent&theme=tokyonight&hide_border=false&v=10)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
+
+  <!-- Primary Streak (Demolab) -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=naqent&theme=tokyonight&hide_border=false)
+
+  <!-- Backup Streak (Vercel Mirror) -->
+  <br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=naqent&theme=tokyonight&hide_border=false" alt="GitHub Streak (Backup)" />
 
   <br/><br/>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false&v=10)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false)
 
   <br/>
   <sub><i>⚙️ Powered by GitHub Readme APIs — clear, consistent, and data-driven.</i></sub>
