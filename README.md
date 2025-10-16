@@ -1,25 +1,15 @@
 # 💫 About Me
 <div align="center">
-  <p>
-    💼 Currently focused on <b>Bot Discord Development</b> projects  
-  </p>
-  <p>
-    🌱 Currently Learning:
-    <a href="https://nodejs.org/" target="_blank" style="color:#83cd29;"><b>Node.js</b></a> & 
-    <a href="https://www.python.org/" target="_blank" style="color:#3776ab;"><b>Python</b></a>
-  </p>
-  <p>
-    <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 2px;">
-      <span style="font-size:1.2em;">🤖</span>
-      <span style="font-weight: bold; font-size:1.1em;">Discord Development:</span>
-      <a href="https://discord.js.org/" target="_blank" style="display:inline-block; background:#222; border-radius:8px; padding:2px 6px;">
-        <img src="https://skillicons.dev/icons?i=discordjs" alt="Discord.js" height="28" style="vertical-align:middle; border-radius:6px;"/>
-      </a>
-      <a href="https://discord.com/users/Naqint" target="_blank" style="display:inline-block; background:#222; border-radius:8px; padding:2px 6px;">
-        <img src="https://img.shields.io/badge/Naqint%20-%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-      </a>
-    </div>
-  </p>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 30px; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.3); width:90%; max-width:500px;">
+    <img src="https://skillicons.dev/icons?i=discordjs,nodejs,python" height="45" />
+    <h3>Hey there, I'm <b>Naqent</b> 👋</h3>
+    <p>🚀 Building smart and dynamic <b>Discord bots</b> that make communities more engaging.</p>
+    <p>💡 Focused on clean, efficient, and creative code.</p>
+    <p>🌱 Learning more about <b>Node.js</b> & <b>Python</b>.</p>
+    <a href="https://discord.com/users/Naqint" target="_blank">
+      <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+  </div>
 </div>
 
 ---
