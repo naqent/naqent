@@ -50,12 +50,12 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <a href="https://github.com/Naqent" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naqent&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <a href="https://github.com/naqent" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
   </a>
   <br/>
-  <a href="https://github.com/Naqent" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naqent&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <a href="https://github.com/naqent" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
   </a>
 </div>
 
@@ -69,7 +69,7 @@
 ---
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Naqent" alt="Visitor Counter"/>
+  <img src="https://count.getloli.com/@:naqent" alt="Visitor Counter"/>
 </div>
 
-<!-- Generated with ❤️ for Naqent -->
+<!-- Generated with ❤️ for naqent -->
