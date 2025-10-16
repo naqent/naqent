@@ -9,15 +9,19 @@
     display: inline-block;
     width: 90%;
     max-width: 600px;
-    transition: all 0.3s ease;
-  ">
+    color: #C9D1D9;
+    transition: all 0.4s ease-in-out;
+  "
+  onmouseover="this.style.boxShadow='0 0 40px rgba(138,124,255,0.6)'; this.style.border='1px solid rgba(138,124,255,0.6)';"
+  onmouseout="this.style.boxShadow='0 0 25px rgba(138,124,255,0.25)'; this.style.border='1px solid rgba(138,124,255,0.3)';"
+  >
 
   <!-- Animated Typing Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=500&lines=Code.+Create.+Connect.;Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Turning+ideas+into+automation+%F0%9F%94%A5" alt="Typing SVG" />
 
   <br/><br/>
 
-  <p align="center" style="color:#C9D1D9; line-height:1.7;">
+  <p align="center" style="line-height:1.7;">
     💼 <b>Discord Bot Developer</b> passionate about creating interactive, automated, and efficient systems.<br/>
     ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — blending logic with creativity.<br/>
     🌌 Always improving, learning, and building meaningful experiences through code.
