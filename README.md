@@ -69,7 +69,10 @@
 ---
 
 <div align="center">
-  <img src="https://count.getloli.com/@:naqent" alt="Visitor Counter"/>
+  <h3>👁️ Visitor Counter</h3>
+  <img src="https://profile-counter.glitch.me/naqent/count.svg" alt="Visitor Count"/>
+  <br/>
+  <sub><i>Counting since the beginning of Naqent's journey 🚀</i></sub>
 </div>
 
 <!-- Generated with ❤️ for naqent -->
