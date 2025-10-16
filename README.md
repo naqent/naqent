@@ -54,8 +54,8 @@
 
   <br/><br/>
 
-  <h3 style="color:#8A7CFF;">🎧 Spotify Activity</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31shkbtgac5xh3wzijj5bbylp63i&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing"/>
+  <h3 style="color:#8A7CFF;">🎧 Spotify Recently Played</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=3&unique=true" alt="Spotify Recently Played"/>
 
   </div>
 </div>
