@@ -52,6 +52,17 @@
   <h3 style="color:#8A7CFF;">🧩 Discord Profile</h3>
   <img src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true" alt="Discord Profile"/>
 
+  <br/><br/>
+
+  <h3 style="color:#8A7CFF;">🎧 Spotify Activity</h3>
+  <a href="https://open.spotify.com/user/31shkbtgac5xh3wzijj5bbylp63i" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify%20-%20Recently%20Played-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=3&unique=true" alt="Spotify Recently Played"/>
+  <br/>
+  <sub><i>🎵 Automatically updated — showing your 3 latest songs.</i></sub>
+
   </div>
 </div>
 
