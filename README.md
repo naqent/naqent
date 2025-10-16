@@ -1,29 +1,38 @@
 # 💫 About Me
 <div align="center">
   <div style="
-    background: radial-gradient(circle at top left, rgba(30,30,60,0.6), #0d1117);
+    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
     border: 1px solid #30363d;
-    border-radius: 12px;
-    padding: 35px 40px;
+    border-radius: 15px;
+    padding: 40px 45px;
+    box-shadow: 0 0 20px rgba(88,101,242,0.25);
     display: inline-block;
-    box-shadow: 0 0 25px rgba(88,101,242,0.3);
     width: 90%;
-    max-width: 550px;
+    max-width: 600px;
   ">
 
   <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Node.js+%26+Python+Enthusiast;Building+smart+%26+scalable+bots;Always+learning+%26+creating+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=500&lines=Code.+Create.+Connect.;Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Turning+ideas+into+automation+%F0%9F%94%A5" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <p align="center">
+    💼 <b>Discord Bot Developer</b> passionate about creating interactive, automated, and efficient systems.<br/>
+    ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — blending logic with creativity.<br/>
+    🌌 Always improving, learning, and building meaningful experiences through code.
+  </p>
 
   <br/>
-  <p align="center">
-    💼 Experienced in building <b>intelligent and scalable Discord bots</b> that enhance online communities.<br/>
-    ⚙️ Skilled in <b>Node.js</b> and <b>Python</b> with a focus on performance and clean code.<br/>
-    🚀 Always improving through creativity and continuous learning.
-  </p>
 
   <a href="https://discord.com/users/Naqint" target="_blank">
     <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://github.com/naqent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+  <i>“Building code that connects communities.”</i>
 
   </div>
 </div>
