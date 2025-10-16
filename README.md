@@ -39,15 +39,14 @@
 
 <div align="center">
   <div style="
-    background: rgba(13,17,23,0.65);
-    backdrop-filter: blur(8px);
+    background: rgba(13,17,23,0.75);
     border: 1px solid #30363d;
     border-radius: 15px;
-    padding: 25px 35px;
-    box-shadow: 0 0 15px rgba(88,101,242,0.25);
+    padding: 30px 35px;
+    box-shadow: 0 0 20px rgba(88,101,242,0.25);
     display: inline-block;
     width: 90%;
-    max-width: 700px;
+    max-width: 720px;
   ">
   
   <h3 style="color:#8A7CFF;">🧩 Discord Profile</h3>
@@ -56,7 +55,7 @@
   <br/><br/>
 
   <h3 style="color:#8A7CFF;">🎧 Spotify Activity</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4KFf6g92vXb&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31shkbtgac5xh3wzijj5bbylp63i&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing"/>
 
   </div>
 </div>
