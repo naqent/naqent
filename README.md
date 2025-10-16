@@ -55,15 +55,38 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 <div align="center">
-  <div style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:20px; box-shadow:0 0 15px rgba(88,101,242,0.3); display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats"/>
-  </div>
+  <div style="
+    background:linear-gradient(135deg,#0d1117 0%,#161b22 100%);
+    border:1px solid rgba(138,124,255,0.25);
+    border-radius:15px;
+    padding:30px;
+    box-shadow:0 0 25px rgba(138,124,255,0.2);
+    display:inline-block;
+  ">
+    <h3 style="color:#8A7CFF;">📈 GitHub Performance Overview</h3>
+    <p style="color:#b0b6c1;">A comprehensive overview of my coding journey and activity.</p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=naqent&theme=tokyonight&hide_border=false" height="160" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false" height="165" />
+      </td>
+    </tr>
+  </table>
+
   <br/>
-  <sub><i>💻 Stats powered by <b>GitHub Readme Stats</b> & <b>Streak Stats</b></i></sub>
+  <sub><i style="color:#8A7CFF;">⚙️ Powered by GitHub Readme APIs — clear, consistent, and data-driven.</i></sub>
+  </div>
 </div>
 
 ---
