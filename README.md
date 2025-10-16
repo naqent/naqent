@@ -52,14 +52,6 @@
   <h3 style="color:#8A7CFF;">🧩 Discord Profile</h3>
   <img src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true" alt="Discord Profile"/>
 
-  <br/><br/>
-
-  <h3 style="color:#8A7CFF;">🎧 Spotify Top Tracks</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/top-tracks?uid=31shkbtgac5xh3wzijj5bbylp63i&theme=novatorem&background_color=0d1117&hide_border=false" alt="Spotify Top Tracks"/>
-
-  <br/>
-  <sub><i>🎵 Automatically updated with your favorite songs.</i></sub>
-
   </div>
 </div>
 
