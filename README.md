@@ -1,14 +1,15 @@
 # 💫 About Me
 <div align="center">
   <div style="
-    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
-    border: 1px solid #30363d;
+    background: linear-gradient(135deg, rgba(35,38,59,0.9) 0%, rgba(13,17,23,1) 100%);
+    border: 1px solid rgba(138,124,255,0.3);
     border-radius: 15px;
     padding: 40px 45px;
-    box-shadow: 0 0 20px rgba(88,101,242,0.25);
+    box-shadow: 0 0 25px rgba(138,124,255,0.25);
     display: inline-block;
     width: 90%;
     max-width: 600px;
+    transition: all 0.3s ease;
   ">
 
   <!-- Animated Typing Text -->
@@ -16,7 +17,7 @@
 
   <br/><br/>
 
-  <p align="center">
+  <p align="center" style="color:#C9D1D9; line-height:1.7;">
     💼 <b>Discord Bot Developer</b> passionate about creating interactive, automated, and efficient systems.<br/>
     ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — blending logic with creativity.<br/>
     🌌 Always improving, learning, and building meaningful experiences through code.
@@ -32,7 +33,7 @@
   </a>
 
   <br/><br/>
-  <i>“Building code that connects communities.”</i>
+  <i style="color:#8A7CFF;">“Building code that connects communities.”</i>
 
   </div>
 </div>
