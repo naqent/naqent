@@ -1,7 +1,6 @@
 # 💫 About Me
 <div align="center">
   <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 30px; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.3); width:90%; max-width:500px;">
-    <img src="https://skillicons.dev/icons?i=discordjs,nodejs,python" height="45" />
     <h3>Hey there, I'm <b>Naqent</b> 👋</h3>
     <p>🚀 Building smart and dynamic <b>Discord bots</b> that make communities more engaging.</p>
     <p>💡 Focused on clean, efficient, and creative code.</p>
