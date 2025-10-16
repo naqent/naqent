@@ -62,8 +62,12 @@
 ---
 
 <div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <h3>💬 Random Dev Quote</h3>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:15px 25px; display:inline-block;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  </div>
+  <br/>
+  <sub><i>“Code is like humor. When you have to explain it, it’s bad.” 😎</i></sub>
 </div>
 
 ---
