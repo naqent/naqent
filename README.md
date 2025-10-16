@@ -11,11 +11,6 @@
     max-width: 600px;
   ">
 
-  <!-- Profile Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%; box-shadow:0 0 15px rgba(138,124,255,0.4);" alt="Naqent Avatar">
-  
-  <br/><br/>
-
   <!-- Animated Typing Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=500&lines=Code.+Create.+Connect.;Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Turning+ideas+into+automation+%F0%9F%94%A5" alt="Typing SVG" />
 
