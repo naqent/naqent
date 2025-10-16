@@ -63,7 +63,7 @@ A comprehensive overview of my coding journey and activity.
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naqent&theme=tokyonight&hide_border=false)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=naqent&theme=tokyonight&hide_border=false&v=2)
 
   <br/><br/>
 
