@@ -66,8 +66,6 @@
   <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:15px 25px; display:inline-block;">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
   </div>
-  <br/>
-  <sub><i>“Code is like humor. When you have to explain it, it’s bad.” 😎</i></sub>
 </div>
 
 ---
@@ -75,8 +73,6 @@
 <div align="center">
   <h3>👁️ Visitor Counter</h3>
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
-  <br/>
-  <sub><i>Thanks for stopping by 🪐</i></sub>
 </div>
 
 <!-- Generated with ❤️ for naqent -->
