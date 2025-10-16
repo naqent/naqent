@@ -1,3 +1,10 @@
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naqent+%F0%9F%91%8B;Discord+Bot+Developer;Node.js+%26+Python+Enthusiast;Always+Learning+and+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+---
+
 # 💫 About Me
 <div align="center">
   <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 30px; display:inline-block; box-shadow:0 0 15px rgba(88,101,242,0.3); width:90%; max-width:500px;">
