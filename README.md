@@ -64,9 +64,7 @@ A comprehensive overview of my coding journey and activity.
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=naqent&theme=tokyonight&hide_border=false)
-
-  <br/><br/>
-
+  <br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false)
 
   <br/>
