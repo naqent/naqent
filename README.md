@@ -20,6 +20,8 @@
 
   <br/>
 
+  <hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #8A7CFF, transparent);">
+
   <h3 style="color:#8A7CFF;">🔗 Connect With Me</h3>
   <p align="center">
     <a href="https://discord.com/users/Naqint" target="_blank">
@@ -29,9 +31,6 @@
       <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
-
-  <br/>
-  <i>“Building code that connects communities.”</i>
 
   </div>
 </div>
@@ -129,4 +128,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Final stable version for naqent | With "Connect With Me" section -->
+<!-- 🩵 Final version for naqent | Divider above Connect With Me -->
