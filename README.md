@@ -84,6 +84,10 @@ _A snapshot of my coding journey, activity, and contributions._
 ### 💫 Overview
 ![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance%20Grade-A%2B-8A7CFF?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 ---
 
 ### 🌐 Most Used Languages
@@ -126,4 +130,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Redesigned by ChatGPT for naqent | Fully stable version -->
+<!-- 🩵 Redesigned by ChatGPT for naqent | Performance Grade integrated -->
