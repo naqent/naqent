@@ -101,10 +101,10 @@
 
 <div align="center">
   <a href="https://github.com/naqent">
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naqent&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&bg_color=0d1117&title_color=8A7CFF&icon_color=8A7CFF" alt="GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=naqent&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8A7CFF&icon_color=8A7CFF" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/naqent">
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naqent&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=css,html,json&cache_seconds=7200&bg_color=0d1117&title_color=8A7CFF" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=8A7CFF" alt="Top Languages"/>
   </a>
 </div>
 
@@ -116,7 +116,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&bg_color=0d1117&color=8A7CFF&line=6F4DFD&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 <sub><i>🧠 Data updated live via GitHub APIs — precision meets performance.</i></sub>
@@ -139,4 +139,4 @@
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </div>
 
-<!-- Optimized with ⚙️ mirror servers for Naqent -->
+<!-- Redesigned with ⚡ by ChatGPT for naqent -->
