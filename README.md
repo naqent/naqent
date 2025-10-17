@@ -82,17 +82,17 @@ _A snapshot of my coding journey, activity, and contributions._
 ---
 
 ### 💫 Overview
-![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=2077&border=30363d&ring=8A7CFF)
+![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
 
 ---
 
 ### 🌐 Most Used Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=2077&border=30363d&ring=8A7CFF)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
 
 ---
 
 ### ⏰ Productivity Timeline
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=2077&utcOffset=8&border=30363d&ring=8A7CFF)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8&border=30363d&ring=8A7CFF)
 
 ---
 
@@ -104,7 +104,7 @@ _A snapshot of my coding journey, activity, and contributions._
 ---
 
 ### 🧠 Summary Card
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=2077&border=30363d&ring=8A7CFF)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
 
 ---
 
@@ -126,4 +126,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Final professional version for naqent | Neon violet GitHub Analytics -->
+<!-- 🩵 Restored stable version for naqent | Tokyonight theme -->
