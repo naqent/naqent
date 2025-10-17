@@ -92,18 +92,34 @@
 
 # 📊 GitHub Analytics
 
-### 📈 GitHub Performance Overview
-A comprehensive overview of my coding journey and activity.
+<div align="center">
+
+### ⚙️ GitHub Performance Overview
+<i>A snapshot of my coding journey, activity, and language usage.</i>
+
+<br/>
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=naqent&theme=tokyonight&hide_border=false)
-  <br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false)
+  <a href="https://github.com/naqent">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=naqent&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8A7CFF&icon_color=8A7CFF" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/naqent">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=8A7CFF" alt="Top Languages"/>
+  </a>
+</div>
 
-  <br/>
-  <sub><i>⚙️ Powered by GitHub Readme APIs — clear, consistent, and data-driven.</i></sub>
+<br/>
+
+<a href="https://github.com/naqent">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=true&background=0D1117&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF" alt="GitHub Streak Stats"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=true" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+<sub><i>🧠 Data updated live via GitHub APIs — precision meets performance.</i></sub>
 
 </div>
 
