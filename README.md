@@ -54,14 +54,16 @@
 
   <br/><br/>
 
-  <h3 style="color:#8A7CFF;">🎧 Spotify Activity</h3>
+  <h3 style="color:#8A7CFF;">🎧 Spotify — Recently Played</h3>
   <a href="https://open.spotify.com/user/31shkbtgac5xh3wzijj5bbylp63i" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify%20-%20Recently%20Played-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=500&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF" 
+      alt="Spotify Recently Played"
+      style="border-radius:12px; box-shadow:0 0 15px rgba(138,124,255,0.3);"
+    />
   </a>
-  <br/><br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=3&unique=true" alt="Spotify Recently Played"/>
   <br/>
-  <sub><i>🎵 Automatically updated — showing your 3 latest songs.</i></sub>
+  <sub><i>🎵 Updated automatically — showing your latest 4 tracks</i></sub>
 
   </div>
 </div>
@@ -121,4 +123,4 @@ A comprehensive overview of my coding journey and activity.
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </div>
 
-<!-- Generated with ❤️ for naqent -->
+<!-- Redesigned with ⚡ by ChatGPT for naqent -->
