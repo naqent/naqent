@@ -20,14 +20,17 @@
 
   <br/>
 
-  <a href="https://discord.com/users/Naqint" target="_blank">
-    <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/naqent" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <h3 style="color:#8A7CFF;">🔗 Connect With Me</h3>
+  <p align="center">
+    <a href="https://discord.com/users/Naqint" target="_blank">
+      <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://github.com/naqent" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 
-  <br/><br/>
+  <br/>
   <i>“Building code that connects communities.”</i>
 
   </div>
@@ -126,4 +129,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Restored stable version for naqent | Tokyonight theme -->
+<!-- 🩵 Final stable version for naqent | With "Connect With Me" section -->
