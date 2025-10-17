@@ -5,7 +5,7 @@
     border: 1px solid #30363d;
     border-radius: 15px;
     padding: 40px 45px;
-    box-shadow: 0 0 20px rgba(138,124,255,0.25);
+    box-shadow: 0 0 20px rgba(88,101,242,0.25);
     display: inline-block;
     width: 90%;
     max-width: 600px;
@@ -20,61 +20,12 @@
 
   <br/>
 
-  <h3 style="color:#8A7CFF; display:flex; align-items:center; justify-content:center; gap:5px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/9919/9919594.png" width="20px" height="20px" style="vertical-align:middle;"/>
-    Connect With Me
-  </h3>
-
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="padding: 6px;">
-        <a href="https://discord.com/users/Naqint" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 6px;">
-        <a href="https://github.com/naqent" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 6px;">
-        <a href="https://twitter.com/naqent" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 6px;">
-        <a href="https://instagram.com/naqent" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 6px;">
-        <a href="https://linkedin.com/in/naqent" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 6px;">
-        <a href="https://youtube.com/@naqent" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 6px;">
-        <a href="https://replit.com/@naqent" target="_blank">
-          <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" style="padding: 6px;">
-        <a href="https://vercel.com/naqent" target="_blank">
-          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://discord.com/users/Naqint" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/naqent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
   </div>
 </div>
@@ -83,93 +34,88 @@
 
 # 🪩 Profile Overview
 
-### 🧩 Discord Presence
-<p align="center">
+<div align="center">
+  <div style="
+    background: rgba(13,17,23,0.75);
+    border: 1px solid #30363d;
+    border-radius: 15px;
+    padding: 30px 35px;
+    box-shadow: 0 0 20px rgba(88,101,242,0.25);
+    display: inline-block;
+    width: 90%;
+    max-width: 720px;
+  ">
+  
+  <h3 style="color:#8A7CFF;">🧩 Discord Profile</h3>
   <img src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true" alt="Discord Profile"/>
-</p>
 
----
+  <br/><br/>
 
-### 🎧 Spotify — Recently Played
-<p align="center">
+  <h3 style="color:#8A7CFF;">🎧 Spotify Activity</h3>
   <a href="https://open.spotify.com/user/31shkbtgac5xh3wzijj5bbylp63i" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF" alt="Spotify Recently Played"/>
+    <img src="https://img.shields.io/badge/Spotify%20-%20Recently%20Played-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-</p>
+  <br/><br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=3&unique=true" alt="Spotify Recently Played"/>
+  <br/>
+  <sub><i>🎵 Automatically updated — showing your 3 latest songs.</i></sub>
 
-<sub><i>🎵 Updated automatically — showing your latest 4 tracks.</i></sub>
+  </div>
+</div>
 
 ---
 
 # 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
-
-> 🎯 Blending creativity with functionality.
+<div align="center">
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:25px 35px; box-shadow:0 0 12px rgba(88,101,242,0.3); display:inline-block;">
+    <h3>🛠️ Technologies I Work With</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    </p>
+    <sub><i>🎯 Blending creativity with functionality.</i></sub>
+  </div>
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
+### 📈 GitHub Performance Overview
+A comprehensive overview of my coding journey and activity.
+
 <div align="center">
   
-## ⚙️ GitHub Performance Overview  
-_A snapshot of my coding journey, activity, and contributions._
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naqent&theme=tokyonight&show_icons=true&count_private=true&hide_border=false)
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=naqent&theme=tokyonight&hide_border=false)
+  <br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&theme=tokyonight&layout=compact&langs_count=8&hide_border=false)
 
----
-
-### 💫 Overview
-![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
-
----
-
-### 🌐 Most Used Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
-
----
-
-### ⏰ Productivity Timeline
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8&border=30363d&ring=8A7CFF)
-
----
-
-### 🔥 Streak & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF&hide_border=false)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false)
-
----
-
-### 🧠 Summary Card
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
-
----
-
-<sub><i>⚙️ Data updated live via GitHub APIs — elegant, accurate, and always evolving.</i></sub>
+  <br/>
+  <sub><i>⚙️ Powered by GitHub Readme APIs — clear, consistent, and data-driven.</i></sub>
 
 </div>
 
 ---
 
-# 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+<div align="center">
+  <h3>💬 Random Dev Quote</h3>
+  <div style="background:#0d1117; border:1px solid #30363d; border-radius:8px; padding:15px 25px; display:inline-block;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  </div>
+</div>
 
 ---
 
-# 👁️ Visitor Counter
-<p align="center">
+<div align="center">
+  <h3>👁️ Visitor Counter</h3>
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
-</p>
+</div>
 
-<!-- 🩵 Final professional version for naqent | Polished Connect With Me -->
+<!-- Generated with ❤️ for naqent -->
