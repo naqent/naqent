@@ -20,34 +20,61 @@
 
   <br/>
 
-  <h3 style="color:#8A7CFF;">🔗 Connect With Me</h3>
+  <h3 style="color:#8A7CFF; display:flex; align-items:center; justify-content:center; gap:5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/9919/9919594.png" width="20px" height="20px" style="vertical-align:middle;"/>
+    Connect With Me
+  </h3>
 
-  <p align="center">
-    <a href="https://discord.com/users/Naqint" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://github.com/naqent" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a><br>
-    <a href="https://twitter.com/naqent" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/naqent" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a><br>
-    <a href="https://linkedin.com/in/naqent" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://youtube.com/@naqent" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a><br>
-    <a href="https://replit.com/@naqent" target="_blank">
-      <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-    </a>
-    <a href="https://vercel.com/naqent" target="_blank">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-  </p>
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="padding: 6px;">
+        <a href="https://discord.com/users/Naqint" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 6px;">
+        <a href="https://github.com/naqent" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 6px;">
+        <a href="https://twitter.com/naqent" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 6px;">
+        <a href="https://instagram.com/naqent" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 6px;">
+        <a href="https://linkedin.com/in/naqent" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 6px;">
+        <a href="https://youtube.com/@naqent" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 6px;">
+        <a href="https://replit.com/@naqent" target="_blank">
+          <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" style="padding: 6px;">
+        <a href="https://vercel.com/naqent" target="_blank">
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
   </div>
 </div>
@@ -145,4 +172,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Final version for naqent | Clean "Connect With Me" layout -->
+<!-- 🩵 Final professional version for naqent | Polished Connect With Me -->
