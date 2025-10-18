@@ -72,6 +72,16 @@
 
 ---
 
+# 🏆 My Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<sub><i>🌟 Highlighting achievements — Stars, Commits, Repositories, and Languages.</i></sub>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
