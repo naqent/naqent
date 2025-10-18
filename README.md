@@ -80,28 +80,28 @@
     background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
     border: 1px solid #30363d;
     border-radius: 20px;
-    box-shadow: 0 0 30px rgba(138,124,255,0.35);
+    box-shadow: 0 0 25px rgba(138,124,255,0.3);
     padding: 25px 30px;
     width: 90%;
-    max-width: 760px;
+    max-width: 750px;
     transition: 0.3s ease;
   ">
-    <h2 style="background: linear-gradient(90deg, #8A7CFF, #5AEFFF); -webkit-background-clip: text; color: transparent; font-weight:700;">🏅 GitHub Trophy Showcase</h2>
+    <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
 
   <br/>
 
   <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=naqent&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+      src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
       alt="GitHub Trophies"
-      style="border-radius:12px; transition:0.4s ease; filter: drop-shadow(0 0 12px rgba(138,124,255,0.4));"
-      onmouseover="this.style.transform='scale(1.06) rotateX(6deg)'; this.style.filter='drop-shadow(0 0 18px rgba(90,239,255,0.7))';"
-      onmouseout="this.style.transform='scale(1) rotateX(0deg)'; this.style.filter='drop-shadow(0 0 12px rgba(138,124,255,0.4))';"
+      style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px rgba(138,124,255,0.4))';"
     />
   </a>
 
   <br/><br/>
-  <sub><i>✨ Updated live — each trophy represents your progress as a developer.</i></sub>
+  <sub><i>✨ Updated live — each trophy represents your growth as a developer.</i></sub>
   </div>
 
 </div>
