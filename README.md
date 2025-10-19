@@ -162,4 +162,10 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
-<!-- 🩵 Restored stable version for naqent | Tokyonight theme -->
+---
+
+<p align="center">
+  <sub>
+    💜 <b>Made with love by <a href="https://github.com/naqent">Naqent</a></b> 💜
+  </sub>
+</p>
