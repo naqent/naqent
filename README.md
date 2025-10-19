@@ -162,10 +162,4 @@ _A snapshot of my coding journey, activity, and contributions._
   <img src="https://count.getloli.com/@naqent?theme=asoul" alt="Visitor Counter"/>
 </p>
 
----
-
-<p align="center">
-  <sub>
-    💜 <b>Made with love by <a href="https://github.com/naqent">Naqent</a></b> 💜
-  </sub>
-</p>
+<!-- 💜 Made with love by naqent -->
