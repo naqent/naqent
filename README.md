@@ -1,34 +1,12 @@
 # 💫 About Me
-<div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
-    border: 1px solid #30363d;
-    border-radius: 15px;
-    padding: 40px 45px;
-    box-shadow: 0 0 20px rgba(138,124,255,0.25);
-    display: inline-block;
-    width: 90%;
-    max-width: 600px;
-  ">
 
-  <h2 style="color:#8A7CFF;">Hi, I'm Naqent 👋</h2>
-  <p align="center">
-    💼 <b>Discord Bot Developer</b> focused on building interactive, automated, and efficient systems.<br/>
-    ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — combining logic and creativity.<br/>
-    🌌 Passionate about creating meaningful digital experiences through code.
-  </p>
+### Hi, I'm Naqent 👋  
+💼 **Discord Bot Developer** focused on building interactive, automated, and efficient systems.  
+⚙️ Skilled in **Node.js** & **Python** — combining logic and creativity.  
+🌌 Passionate about creating meaningful digital experiences through code.
 
-  <br/>
-
-  <a href="https://discord.com/users/Naqint" target="_blank">
-    <img src="https://img.shields.io/badge/Discord%20-%20Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/naqent" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20-%20naqent-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  </div>
-</div>
+[![Discord](https://img.shields.io/badge/Discord-Naqint-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Naqint)
+[![GitHub](https://img.shields.io/badge/GitHub-naqent-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naqent)
 
 ---
 
@@ -65,58 +43,26 @@
 ---
 
 # 🏆 My Trophy
-<div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
-    border: 1px solid #30363d;
-    border-radius: 20px;
-    box-shadow: 0 0 25px rgba(138,124,255,0.3);
-    padding: 25px 30px;
-    width: 90%;
-    max-width: 750px;
-    transition: 0.3s ease;
-  ">
-    <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
-
-    <br/>
-
-    <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-        alt="GitHub Trophies"
-        style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
-        onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
-        onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px rgba(138,124,255,0.4))';"
-      />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%"/>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
+</p>
 
-### 💫 Overview
-![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8" width="49%" alt="Productive Time"/>
+</p>
 
----
-
-### 🌐 Most Used Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
-
----
-
-### ⏰ Productivity Timeline
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8&border=30363d&ring=8A7CFF)
-
----
-
-### 🔥 Streak & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF&hide_border=false)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false)
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false" alt="Contribution Graph"/>
+</p>
 
 ---
 
