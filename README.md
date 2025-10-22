@@ -70,32 +70,29 @@
 <div align="center">
 
   <div style="
-    background: linear-gradient(135deg, #0d1117 0%, #1b1f27 100%);
-    border: 1px solid #3a3f4b;
-    border-radius: 22px;
-    box-shadow: 0 0 25px rgba(138,124,255,0.35), inset 0 0 10px rgba(138,124,255,0.1);
-    padding: 35px 30px;
+    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(138,124,255,0.3);
+    padding: 25px 30px;
     width: 90%;
-    max-width: 780px;
+    max-width: 750px;
+    transition: 0.3s ease;
   ">
-    <h2 style="color:#8A7CFF; font-weight:600; letter-spacing:0.5px;">🏅 GitHub Trophy Showcase</h2>
+    <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
 
-    <p style="color:#b3b3b3; font-size: 13px; margin-top: -5px;">
-      <i>✨ A visual snapshot of milestones — reflecting growth, persistence, and creativity.</i>
-    </p>
+  <br/>
 
-    <br/>
+  <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+      alt="GitHub Trophies"
+      style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px rgba(138,124,255,0.4))';"
+    />
+  </a>
 
-    <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-        alt="GitHub Trophies"
-        style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 10px rgba(138,124,255,0.5));"
-      />
-    </a>
-
-    <br/><br/>
-    <sub style="color:#999;">🪶 Updated in real-time via GitHub API</sub>
   </div>
 
 </div>
