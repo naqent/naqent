@@ -77,7 +77,6 @@
     padding: 25px 30px;
     width: 90%;
     max-width: 750px;
-    transition: 0.3s ease;
   ">
     <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
 
@@ -87,9 +86,7 @@
     <img 
       src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
       alt="GitHub Trophies"
-      style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
-      onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px rgba(138,124,255,0.4))';"
+      style="border-radius:12px; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
     />
   </a>
 
@@ -103,8 +100,14 @@
 
 <div align="center">
 
-### 💫 Overview
-![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
+### 💫 Overview  
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF" 
+    alt="Naqent’s Stats"
+    style="border-radius: 15px; box-shadow: 0 0 15px rgba(138,124,255,0.3); background: linear-gradient(145deg, #0d1117, #1a1f25); padding: 10px;"
+  />
+</div>
 
 ---
 
