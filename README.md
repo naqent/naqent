@@ -67,38 +67,68 @@
 
 # 🏆 My Trophy
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
+<div align="center">
+
+  <div style="
+    background: linear-gradient(135deg, #0d1117 0%, #1a1f25 100%);
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(138,124,255,0.3);
+    padding: 25px 30px;
+    width: 90%;
+    max-width: 750px;
+    transition: 0.3s ease;
+  ">
+    <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
+
+  <br/>
+
+  <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+      alt="GitHub Trophies"
+      style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px rgba(138,124,255,0.4))';"
+    />
+  </a>
+
+  </div>
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-### 💫 Overview (Auto Grade)
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=naqent&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&include_all_commits=true"
-    alt="Naqent's GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqent&layout=compact&theme=tokyonight&hide_border=false"
-    alt="Top Languages"
-    width="49%"
-  />
-</p>
+<div align="center">
+
+### 💫 Overview
+![Naqent’s Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
 
 ---
 
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false" alt="Contribution Graph"/>
-</p>
+### 🌐 Most Used Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
+
+---
+
+### ⏰ Productivity Timeline
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8&border=30363d&ring=8A7CFF)
+
+---
+
+### 🔥 Streak & Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF&hide_border=false)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false)
+
+---
+
+### 🧠 Summary Card
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=tokyonight&border=30363d&ring=8A7CFF)
+
+</div>
 
 ---
 
