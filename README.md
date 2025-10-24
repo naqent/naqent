@@ -11,7 +11,7 @@
     max-width: 600px;
   ">
 
-  <h2 style="color:#8A7CFF;">Hi, I'm Naqen 👋</h2>
+  <h2 style="color:#8A7CFF;">Hi, I'm Naqent 👋</h2>
   <p align="center">
     💼 <b>Discord Bot Developer</b> focused on building interactive, automated, and efficient systems.<br/>
     ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — combining logic and creativity.<br/>
