@@ -83,9 +83,9 @@
 
   <br/>
 
-  <a href="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
+  <a href="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+      src="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
       alt="GitHub Trophies"
       style="border-radius:12px; transition:0.3s ease; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
       onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 15px rgba(138,124,255,0.7))';"
