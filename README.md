@@ -11,7 +11,6 @@
     padding: 40px 45px;
     box-shadow: 0 0 25px rgba(138,124,255,0.25);
     max-width: 650px;
-    transition: 0.3s ease;
   ">
 
   <h2 style="color:#8A7CFF; margin:0; font-size:28px;">Hi, I'm Naqent 👋</h2>
@@ -43,7 +42,6 @@
   <img style="
     border-radius:12px;
     box-shadow:0 0 15px rgba(138,124,255,0.3);
-    transition:0.3s;
   " 
   src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true"/>
 </div>
@@ -56,7 +54,6 @@
     <img style="
       border-radius:14px;
       box-shadow:0 0 15px rgba(138,124,255,0.35);
-      transition:0.3s;
     "
     src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF"/>
   </a>
@@ -132,12 +129,19 @@ style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
 ---
 
 ### 🔥 Streak & Contributions
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=naqent&theme=tokyonight&ring=8A7CFF&fire=8A7CFF&currStreakLabel=8A7CFF&hide_border=false"
+    style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"
+  />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight"
-style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night"
-style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night&bg_color=0d1117&color=8A7CFF&line=8A7CFF&point=FFFFFF&hide_border=false"
+    style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"
+  />
+</p>
 
 ---
 
