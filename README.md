@@ -1,26 +1,28 @@
-<!-- ================================ -->
-<!--         🌌 ABOUT ME              -->
-<!-- ================================ -->
+<!-- ===================================================== -->
+<!--                💜 PREMIUM GLOSSY PROFILE              -->
+<!-- ===================================================== -->
 
 # 💫 About Me
 <div align="center">
   <div style="
-    background: linear-gradient(135deg, #0d1117, #1a1f25);
-    border: 1px solid #30363d;
-    border-radius: 15px;
-    padding: 35px 40px;
-    box-shadow: 0 0 20px rgba(138,124,255,0.25);
-    max-width: 600px;
+    background: linear-gradient(135deg, rgba(13,17,23,0.85), rgba(26,31,37,0.92));
+    border: 1px solid rgba(138,124,255,0.35);
+    border-radius: 18px;
+    padding: 40px 45px;
+    box-shadow: 0 0 25px rgba(138,124,255,0.25);
+    max-width: 650px;
+    transition: 0.3s ease;
   ">
 
-  <h2 style="color:#8A7CFF; margin: 0;">Hi, I'm Naqent 👋</h2>
-  <p align="center">
-    💼 <b>Discord Bot Developer</b> specializing in automation & interactive systems.<br/>
-    ⚙️ Skilled in <b>Node.js</b> & <b>Python</b> — combining logic with creativity.<br/>
-    🌌 Passionate about building meaningful digital experiences.
+  <h2 style="color:#8A7CFF; margin:0; font-size:28px;">Hi, I'm Naqent 👋</h2>
+
+  <p align="center" style="font-size:15px; line-height:1.6;">
+    💼 <b>Discord Bot Developer</b> focusing on automation, interactivity, and smart systems.<br/>
+    ⚙️ Experienced in <b>Node.js</b> & <b>Python</b> — blending creativity with logic.<br/>
+    🌌 Dedicated to building smooth and meaningful digital experiences.
   </p>
 
-  <div style="margin-top: 10px;">
+  <div style="margin-top: 15px;">
     <a href="https://discord.com/users/1046360722214490202" target="_blank">
       <img src="https://img.shields.io/badge/Discord%20-%20Naqent-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
@@ -37,23 +39,35 @@
 # 🪩 Profile Overview
 
 ### 🧩 Discord Presence
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true"/>
-</p>
+<div align="center">
+  <img style="
+    border-radius:12px;
+    box-shadow:0 0 15px rgba(138,124,255,0.3);
+    transition:0.3s;
+  " 
+  src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true"/>
+</div>
 
 ---
 
 ### 🎧 Spotify — Recently Played
-<p align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/31shkbtgac5xh3wzijj5bbylp63i" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF"/>
+    <img style="
+      border-radius:14px;
+      box-shadow:0 0 15px rgba(138,124,255,0.35);
+      transition:0.3s;
+    "
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF"/>
   </a>
-</p>
+</div>
 
 ---
 
 # 💻 Tech Stack
-<p align="center">
+<div align="center">
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -64,64 +78,87 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
 # 🏆 My Trophy
 <div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0d1117, #1a1f25);
-    border: 1px solid #30363d;
-    border-radius: 20px;
-    box-shadow: 0 0 25px rgba(138,124,255,0.3);
-    padding: 25px 30px;
-    max-width: 750px;
-  ">
-    <h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
 
-    <a href="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
-      <img 
-        src="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-        style="border-radius:12px; filter: drop-shadow(0 0 8px rgba(138,124,255,0.4));"
-      />
-    </a>
+<div style="
+  background: linear-gradient(135deg, rgba(13,17,23,0.85), rgba(26,31,37,0.92));
+  border: 1px solid rgba(138,124,255,0.35);
+  border-radius: 20px;
+  padding: 30px 35px;
+  max-width: 780px;
+  box-shadow: 0 0 25px rgba(138,124,255,0.3);
+">
 
-  </div>
+<h2 style="color:#8A7CFF; font-weight:600;">🏅 GitHub Trophy Showcase</h2>
+
+<a href="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" target="_blank">
+  <img 
+    src="https://github-profile-trophy.ryo-ma.vercel.app/?username=naqent&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+    style="border-radius:12px; filter: drop-shadow(0 0 10px rgba(138,124,255,0.45));"
+  />
+</a>
+
+</div>
+
 </div>
 
 ---
 
 # 📊 GitHub Analytics
+
 <div align="center">
 
 ### 💫 Overview
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naqent&theme=tokyonight" 
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+
+---
 
 ### 🌐 Most Used Languages
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naqent&theme=tokyonight"
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+
+---
 
 ### ⏰ Productivity Timeline
-![Timeline](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naqent&theme=tokyonight&utcOffset=8"
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+
+---
 
 ### 🔥 Streak & Contributions
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naqent&theme=tokyonight"
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naqent&theme=tokyo-night"
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
+
+---
 
 ### 🧠 Summary Card
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqent&theme=tokyonight"
+style="border-radius:10px; box-shadow:0 0 12px rgba(138,124,255,0.3);"/>
 
 </div>
 
 ---
 
 # 💬 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  style="border-radius:10px; box-shadow:0 0 15px rgba(138,124,255,0.3);"/>
+</div>
 
 ---
 
 # 👁️ Visitor Counter
-<p align="center">
-  <img src="https://count.getloli.com/@naqent?theme=asoul"/>
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@naqent?theme=asoul"
+  style="border-radius:10px;"/>
+</div>
