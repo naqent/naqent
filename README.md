@@ -100,7 +100,7 @@
 ### 💫 Overview 
 <p align="center" style="margin-bottom: 20px;">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naqent&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000&hide_border=false"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=naqent&theme=github_dark&show_icons=true&rank_icon=github"
     style="border-radius:10px; box-shadow:0 0 10px rgba(138,124,255,0.3);" 
   />
 </p>
@@ -146,7 +146,7 @@ style="border-radius:8px; box-shadow:0 0 10px rgba(138,124,255,0.3); margin-bott
 
 # 💬 Quote of the Day
 <div align="center" style="margin: 15px 0 25px 0;">
-  <img src="https://quotes-ggithub-readme.vercel.app/api?type=horizontal&theme=dark"
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
   style="border-radius:8px; box-shadow:0 0 12px rgba(138,124,255,0.3);" />
 </div>
 
