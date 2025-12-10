@@ -39,11 +39,8 @@
 
 ### 🧩 Discord Presence
 <div align="center">
-  <img style="
-    border-radius:12px;
-    box-shadow:0 0 15px rgba(138,124,255,0.3);
-  " 
-  src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true"/>
+  <img style="border-radius:12px; box-shadow:0 0 15px rgba(138,124,255,0.3);"
+       src="https://lanyard.cnrad.dev/api/1046360722214490202?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding%20something%20cool...&animated=true"/>
 </div>
 
 ---
@@ -51,10 +48,7 @@
 ### 🎧 Spotify — Recently Played
 <div align="center">
   <a href="https://open.spotify.com/user/31shkbtgac5xh3wzijj5bbylp63i" target="_blank">
-    <img style="
-      border-radius:14px;
-      box-shadow:0 0 15px rgba(138,124,255,0.35);
-    "
+    <img style="border-radius:14px; box-shadow:0 0 15px rgba(138,124,255,0.35);"
     src="https://spotify-recently-played-readme.vercel.app/api?user=31shkbtgac5xh3wzijj5bbylp63i&count=4&width=480&unique=true&border_radius=12&show_time=true&background_color=0d1117&border_color=8A7CFF"/>
   </a>
 </div>
